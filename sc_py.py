@@ -13,3 +13,7 @@ Original file is located at
 print("Hello, World!")
 
 print("Tugas Software Engineering")
+
+
+
+print("Hello, Lagi!")
